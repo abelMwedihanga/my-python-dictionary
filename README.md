@@ -1,7 +1,7 @@
 # My Python Dictionary
 
 A client-server dictionary built in Python with sockets + JSON.
-Built while I was on night shift.
+
 
 ## How to run
 1. Start server: python dict_server.py
